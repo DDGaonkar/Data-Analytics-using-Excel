@@ -4,7 +4,9 @@ MS Excel Dahsboards for Data Analysis.
 
 ## Vrinda Store Dashboard 
 ###### _Link to the Excel Dashboard: https://1drv.ms/x/c/2a097eee1bb1f556/ERDyXP7GpJBBleTV9T0onlIBrO2b7VRGM1vx6J1ckSeHFQ?e=212KqU_
-https://github.com/DDGaonkar/Data-Analytics-using-Excel/blob/bb5ce48062a9830fee31746bc644f89611e3d859/Vrinda%20Store%20Dashboard.png
+![image](https://github.com/DDGaonkar/Data-Analytics-using-Excel/assets/33095020/b9446402-deea-4e7d-9206-0b2efc443f89)
+
+
 The Excel project aimed to analyze and visualize sales data to derive actionable insights for a business. The project followed a structured approach encompassing data cleaning, preprocessing, analysis, and drawing conclusions. 
 
 Data Cleaning:
