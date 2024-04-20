@@ -6,6 +6,7 @@ Welcome to my "Data Analytics with Excel" GitHub repository! As a recent MSc in 
 - **Data Manipulation:** Explore how I clean, organize, and format data to prepare it for analysis.
 - **Analysis:** See how I utilize Excel's functions and tools to perform analysis.
 - **Visualizations:** Check out the charts and graphs I've created to visualize trends, patterns, and relationships within the data.
+<p>&nbsp;</p>
 
 🔍 **Projects Included:**
 1. Vrinda Stores Sales Analysis Dashboard: Analyzing sales data to identify top-performing products and regions.
@@ -13,7 +14,7 @@ Welcome to my "Data Analytics with Excel" GitHub repository! As a recent MSc in 
 
 📝 **Learning and Growth:**
 I'm continuously updating this repository with new projects and learning resources as I enhance my skills in data analytics. Feel free to explore, provide feedback, and connect with me to discuss potential opportunities or collaborations.
-
+<p>&nbsp;</p>
 
 📧 **Contact:**
 Reach out to me via email [gaonkardeepanshu@gmail.com] or connect with me on LinkedIn [https://www.linkedin.com/in/deepanshu-gaonkar/] to discuss how my skills in data analytics using Excel can contribute to your organization's success.
